@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Jump.ly and The Rot at the Heart of Eden</title>
+<meta name="description"
+content="There's a certain name you may have entered in your browser's search bar, a certain website *revently* remembered as the internet's own Holy Place.
+         But behind closed doors, does anything remain sacred?
+         Chapte..."
+    />
+
+<style>
+    html, body {
+        height: 100%;
+        margin: 0;
+    }
+
+    body {
+        background: black;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    img {
+        max-height: 100%;
+        max-width: 100%;
+        object-fit: scale-down;
+    }
+</style>
+</head>
+
+<body>
+
+<img src="../ip-grabber.gif" alt="a gif of thanos with the caption: 'ip grabber' ">
+
+</body>
+
+</html>
